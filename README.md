@@ -1,4 +1,3 @@
-# Project
 # E-Learning Platform
 
 A full-stack MERN application delivering a scalable, interactive learning experience connecting **Users** and **Instructors**.
